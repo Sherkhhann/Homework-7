@@ -17,6 +17,7 @@
 }
 .mainconteiner{
     margin: 70px 135px 0px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.047);
 } 
 .conteiner{
     width: 100%;
@@ -24,6 +25,7 @@
     display: flex;
     justify-content: center;
     text-align: center;
+    margin-top: 30px;
 }
 .con1 h1{
     font-size: 15px;
@@ -38,4 +40,22 @@
     width: 20%;
     padding: 10px;
     line-height: 25px;
+}
+.link2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
+.link2 .num{
+    padding: 8px;
+}
+.link2 .num:hover{
+    padding: 8px;
+    background-color: lightgrey;
+}
+.link2 a{
+    text-decoration: none;
+    word-spacing: 20px;
+    color: black;
 }
