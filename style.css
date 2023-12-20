@@ -59,3 +59,16 @@
     word-spacing: 20px;
     color: black;
 }
+.last{
+    text-align: center;
+    margin: 70px 135px 0px;
+    padding: 70px 135px 0px;
+    border-top: 1px solid gray;
+}
+.last img{
+    width: 100%;
+    padding: 10px 0px;
+}
+.last h1, .last p{
+    padding: 8px 0px;
+}
